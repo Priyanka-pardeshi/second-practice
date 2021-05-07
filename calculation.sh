@@ -8,3 +8,4 @@ echo c=$(($a+$b))
 ech0 $c
 }
 result="`add 23 44`"
+echo $result
